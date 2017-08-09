@@ -2,8 +2,9 @@
 
 int add2y(int x, int y)
 	return x+2*y;
-int sub(int x, int y)
-	return x-y;
+
+int sub2y(int x, int y)
+	return x-2*y;
 
 void main()
 {
