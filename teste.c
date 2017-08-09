@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int add2y(int x, int y)
-	return x+2*y;
+int add3y(int x, int y)
+	return x+3*y;
 int sub(int x, int y)
 	return x-y;
 
